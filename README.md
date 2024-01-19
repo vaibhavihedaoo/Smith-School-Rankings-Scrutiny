@@ -1,0 +1,1 @@
+# Smith-School-Rankings-Scrutiny
