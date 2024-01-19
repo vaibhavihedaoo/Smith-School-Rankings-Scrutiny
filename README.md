@@ -1,4 +1,4 @@
-# Smith-School-Rankings-Scrutiny
+# Smith School Rankings Scrutiny
 
 To model a database for ranking various UMD Smith School programs, our mission is to provide a user-friendly platform that offers multi-year rankings for various graduate programs. Our goal is to enable the Smith School to draw valuable insights and facilitate data-driven decision-making regarding program rankings over the years.  
 
